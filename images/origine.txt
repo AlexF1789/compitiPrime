@@ -1,0 +1,4 @@
+Il file logo.png proviene dal sito https://liceoeinsteintorino.openday.education/
+Il file git.png proviene dal sito https://github.com/
+
+Nessun file presente in questa cartella è di produzione del sottoscritto.
